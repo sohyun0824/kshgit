@@ -10,5 +10,9 @@
 
 <h1>list.jsp</h1>
 
+B-edit<br>
+B-edit<br>
+B-edit<br>
+    
 </body>
 </html>
